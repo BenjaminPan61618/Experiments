@@ -1,9 +1,9 @@
 # Experiments
 ### Experiments / C++ 实验
 最近一次作业: 第四次上机（实验四）\
-可以使用 git clone https://github.com/BenjaminPan61618/Experiments/<次数的罗马数字>/ 下载,例如:
+安装 git 后，可以使用 git clone 语句下载,例如:
 ```shell
-git clone https://github.com/BenjaminPan61618/Experiments/IV/
+git clone https://github.com/BenjaminPan61618/Experiments.git
 ```
 #### 注意: 请先安装 git！
 如何下载 .zip 压缩包? / How to Download the .zip File?
