@@ -6,5 +6,5 @@
 git clone https://github.com/BenjaminPan61618/Experiments/IV/
 ```
 #### 注意: 请先安装 git！
-如何下载 .zip 压缩包 / 如何下載 .zip 歸檔 / How to Download the .zip File?
+如何下载 .zip 压缩包? / How to Download the .zip File?
 ![Picture](https://BenjaminPan61618.github.io/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-15%20122014.png)
